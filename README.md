@@ -7,3 +7,7 @@ Record things I did everyday (Done List rather than ToDo List)
 3. 了解了shared_ptr的部分作用
 4. 了解了C++ 11的语法糖 default作用
 5. 整合Box2D进入毕设代码
+
+### 2015-05-05
+1. 阅读了2页《计算机系统原理》
+2. 了解了V8内部原理
