@@ -11,3 +11,6 @@ Record things I did everyday (Done List rather than ToDo List)
 ### 2015-05-05
 1. 阅读了2页《计算机系统原理》
 2. 了解了V8内部原理
+
+### 2015-05-06
+1. 优化JavaScript DOM操作。
