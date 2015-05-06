@@ -13,4 +13,6 @@ Record things I did everyday (Done List rather than ToDo List)
 2. 了解了V8内部原理
 
 ### 2015-05-06
-1. 优化JavaScript DOM操作。
+1. 了解优化JavaScript DOM操作。
+2. 配置Edison板子。
+3. 了解jQuery核心方法和类型判断。
