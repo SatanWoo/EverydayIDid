@@ -16,3 +16,6 @@ Record things I did everyday (Done List rather than ToDo List)
 1. 了解优化JavaScript DOM操作。
 2. 配置Edison板子。
 3. 了解jQuery核心方法和类型判断。
+
+### 2015-05-07
+1. 配置完成Edision Blink LED效果
