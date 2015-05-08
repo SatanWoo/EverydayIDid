@@ -19,3 +19,6 @@ Record things I did everyday (Done List rather than ToDo List)
 
 ### 2015-05-07
 1. 配置完成Edision Blink LED效果
+
+### 2015-05-08
+1. 摸索完成配置Edison
