@@ -23,3 +23,6 @@ Record things I did everyday (Done List rather than ToDo List)
 ### 2015-05-08
 1. 摸索完成配置Edison
 2. 完成Basic JavaScript得修改
+
+### 2015-05-09
+1. 阅读了c－faq，variable array length
