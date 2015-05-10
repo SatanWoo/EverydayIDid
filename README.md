@@ -29,4 +29,5 @@ Record things I did everyday (Done List rather than ToDo List)
 
 ### 2015-05-10
 1. 了解了AMD模式
+2. 重构了Cleen的首页
 
