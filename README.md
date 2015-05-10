@@ -26,3 +26,7 @@ Record things I did everyday (Done List rather than ToDo List)
 
 ### 2015-05-09
 1. 阅读了c－faq，variable array length
+
+### 2015-05-10
+1. 了解了AMD模式
+
