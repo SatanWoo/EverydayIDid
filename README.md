@@ -31,3 +31,7 @@ Record things I did everyday (Done List rather than ToDo List)
 1. 了解了AMD模式
 2. 重构了Cleen的首页
 
+### 2015-05-11
+1. 阅读完成STL源码配置器章节
+2. 了解了CSS渲染树
+3. 了解了CSS阻塞
