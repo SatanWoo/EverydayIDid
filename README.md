@@ -35,3 +35,5 @@ Record things I did everyday (Done List rather than ToDo List)
 1. 阅读完成STL源码配置器章节
 2. 了解了CSS渲染树
 3. 了解了CSS阻塞
+4. 阅读了Thread Safe Design Objective-C
+5. 了解了几种迭代方式的对比，总体来说fast enumeration最快
